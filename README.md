@@ -1,3 +1,9 @@
 # node-mysql-express-crud
 
-nodemon server.js 
+nodemon app.js || run test 
+
+connect your Database and port numbers in .env file.
+
+here .env file is not mentioned for privacy purpose.
+
+
